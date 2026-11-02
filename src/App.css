@@ -95,11 +95,11 @@ body {
   padding: 10px 30px 20px;
 }
 
-.about-us h2 {
+.about-us-container h2 {
   text-align: center;
 }
 
-.about-us p {
+.about-us-container p {
   line-height: 1.6;
 }
 
